@@ -1,7 +1,7 @@
-<h2 align="center">
+<p align="center">
   Hi 👋, I'm 
   <img src="https://img.shields.io/badge/Prince%20Carl%20S.%20Ajoc-blue?style=flat-square" />
-</h2>
+</p>
 <h4 align="justify">I am passionate about mastering various programming languages and exploring innovative technologies. I love experimenting with new languages and creating mini-projects to challenge myself creatively. I am dedicated to continuous learning, improving my problem-solving skills, and deepening my understanding of software development fundamentals. I also enjoy collaborating on open-source projects that make a positive impact on society. Overall, my passion is using technology to innovate, solve problems creatively, and contribute meaningfully to the community.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chingdev0fficial&label=Profile%20views&color=0e75b6&style=flat" alt="chingdev0fficial" /> </p>
