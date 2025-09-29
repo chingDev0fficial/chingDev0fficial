@@ -1,6 +1,6 @@
-<h2 align="center">Hi 👋, I'm <p align="center">
-  <img src="https://img.shields.io/badge/Prince%20Carl%20S.%20Ajoc-blue?style=for-the-badge" />
-</p>
+<h2 align="center">
+  Hi 👋, I'm 
+  <img src="https://img.shields.io/badge/Prince%20Carl%20S.%20Ajoc-blue?style=flat-square" />
 </h2>
 <h4 align="justify">I am passionate about mastering various programming languages and exploring innovative technologies. I love experimenting with new languages and creating mini-projects to challenge myself creatively. I am dedicated to continuous learning, improving my problem-solving skills, and deepening my understanding of software development fundamentals. I also enjoy collaborating on open-source projects that make a positive impact on society. Overall, my passion is using technology to innovate, solve problems creatively, and contribute meaningfully to the community.</h4>
 
