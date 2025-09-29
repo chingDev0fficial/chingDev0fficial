@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm <span style="color: blue;">Prince Carl S. Ajoc<span></h2>
-<h4 align="left">I am passionate about mastering various programming languages and exploring innovative technologies. I love experimenting with new languages and creating mini-projects to challenge myself creatively. I am dedicated to continuous learning, improving my problem-solving skills, and deepening my understanding of software development fundamentals. I also enjoy collaborating on open-source projects that make a positive impact on society. Overall, my passion is using technology to innovate, solve problems creatively, and contribute meaningfully to the community.</h4>
+<h4 align="justify">I am passionate about mastering various programming languages and exploring innovative technologies. I love experimenting with new languages and creating mini-projects to challenge myself creatively. I am dedicated to continuous learning, improving my problem-solving skills, and deepening my understanding of software development fundamentals. I also enjoy collaborating on open-source projects that make a positive impact on society. Overall, my passion is using technology to innovate, solve problems creatively, and contribute meaningfully to the community.</h4>
 
-<p align="justify"> <img src="https://komarev.com/ghpvc/?username=chingdev0fficial&label=Profile%20views&color=0e75b6&style=flat" alt="chingdev0fficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chingdev0fficial&label=Profile%20views&color=0e75b6&style=flat" alt="chingdev0fficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chingdev0fficial" alt="chingdev0fficial" /></a> </p>
 
